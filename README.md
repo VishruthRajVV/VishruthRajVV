@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishruth Raj VV</h1>
 <h3 align="center">Computer Science Engineer and a Data Science Student!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishruthrajvv&label=Profile%20views&color=0e75b6&style=flat" alt="vishruthrajvv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishruthrajvv&label=Profile%20views&color=0e75b6&style=flat" alt="vishruthrajvv" /> &nbsp;&nbsp;</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishruthrajvv" alt="vishruthrajvv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;&nbsp; <img src="https://github-profile-trophy.vercel.app/?username=vishruthrajvv" alt="vishruthrajvv" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/VishruthRajVV](https://github.com/VishruthRajVV)
 
