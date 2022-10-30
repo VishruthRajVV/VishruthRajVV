@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [http://vishruthrajvv.co.in/](http://vishruthrajvv.co.in/)
 
-- 📫 How to reach me **vvvishruth@gmail.com**
+- 📫 How to reach me **@**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
