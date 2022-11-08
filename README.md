@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VishruthRajVV](https://github.com/VishruthRajVV)
 
-- 📝 I regularly write articles on [http://vishruthrajvv.co.in/](http://vishruthrajvv.co.in/)
+- 📝 My Website [http://vishruthrajvv.co.in/](http://vishruthrajvv.co.in/)
 
 - 📫 How to reach me **@**
 
