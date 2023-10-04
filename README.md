@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Vishruth Raj V.V.<br><br>- 🔭 I’m working as a Freelance Data Scientist<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I do nothing<br>- 📝 My Website [http://vishruthrajvv.co.in/](http://vishruthrajvv.co.in/)</p>
+<p align="left">I'm Vishruth Raj V.V.<br><br>- 🔭 I’m working as a Freelance Data Scientist<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I do nothing<br>- 📝 My Website : http://vishruthrajvv.co.in/</p>
 
 ###
 
